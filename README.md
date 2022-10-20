@@ -1,2 +1,2 @@
 # urban-caracal
-Mapping and modeling for MSc on urban caracal diet
+Mapping and modeling urban caracal foraging ecology and ecotoxicology
